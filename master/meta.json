@@ -1,8 +1,0 @@
-{
-  "desc": "fragment-aware assembler for short reads",
-  "license": "MIT",
-  "name": "falas",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/brentp/falas",
-  "version": "master"
-}
