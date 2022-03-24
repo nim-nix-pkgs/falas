@@ -1,5 +1,5 @@
 {
-  description = ''fragment-aware assembler for short reads'';
+  description = ''fragment-aware local assembler for short reads'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
