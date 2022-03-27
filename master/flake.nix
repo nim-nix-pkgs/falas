@@ -11,6 +11,7 @@
   inputs.src-falas-master.ref   = "refs/heads/master";
   inputs.src-falas-master.owner = "brentp";
   inputs.src-falas-master.repo  = "falas";
+  inputs.src-falas-master.dir   = "";
   inputs.src-falas-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
