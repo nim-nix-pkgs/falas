@@ -7,8 +7,34 @@
   "license": "MIT",
   "web": "https://brentp.github.io/falas/falas.html",
   "refs": [
-    "fatal: unable to access 'https://github.com/brentp/falas/': Could not resolve host: github.com",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "falas",
+      "version": "0.0.1",
+      "author": "Brent Pedersen",
+      "desc": "fragment-aware local assembler for short reads",
+      "license": "MIT",
+      "skipDirs": [
+        "tests"
+      ],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [
+        "nim"
+      ],
+      "requires": [],
+      "bin": [
+        "falas"
+      ],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
